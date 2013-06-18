@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.6.3
-Release:          1
+Release:          2
 Summary:          Affymetrix Human Genome U95 Set annotation data (chip hgu95av2)
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
